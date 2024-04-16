@@ -1,8 +1,8 @@
 {
-  "name": "LeetHub v3",
+  "name": "LeetCodeSyncPro",
   "version": "0.0.2",
   "private": true,
-  "description": "Automatically integrate your code with LeetCode and GitHub",
+  "description": "Automatically syncs your LeetCode solutions to GitHub.",
   "scripts": {
     "setup": "npm i",
     "format": "prettier --write **/*.{js,jsx,ts,tsx,css,html}",
