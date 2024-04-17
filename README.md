@@ -1,5 +1,5 @@
 
-# LLeetCodeSync Pro - Sync your LeetCode Solutions with GitHub
+# LeetCodeSync Pro - Sync your LeetCode Solutions with GitHub
 
 ## What is LeetHub-3.0?
 
