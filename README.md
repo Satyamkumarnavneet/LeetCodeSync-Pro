@@ -1,7 +1,7 @@
 
 # LeetCodeSync Pro - Sync your LeetCode Solutions with GitHub
 
-## What is LeetHub-3.0?
+## What is LeetCodeSync Pro?
 
 LeetCodeSync Pro is a powerful tool that automates the synchronization of your LeetCode coding solutions with GitHub repositories. Say goodbye to manual syncing and hello to more time for coding and innovation. Forked from a renowned predecessor, LeetCodeSync Pro is designed to streamline your coding workflow.
 
